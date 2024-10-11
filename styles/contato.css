@@ -27,6 +27,7 @@
     border-radius: 24px;
     width: 90%;
     color: var(--azul);
+    text-align: center;
 }
 
 .contato__email::placeholder {
